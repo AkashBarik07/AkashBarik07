@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚴‍♀️ I’m a final year Computer Science student<br>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/537e441ca0a4162a3e3c12e9735314d30077b02b90da67c1d851c6185e533d0e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313335382f312a6752654c5236685a6a77794278486d664c4e314156772e676966" >
-<br>🌱 I’m currently learning Mern stack<br><br>💬 Ask me about Data Structure & Algorithm<br><br>📫 How to reach me barikakash396@gmail.com<br><br>Coding Profile : <br><br> CodeChef: https://www.codechef.com/users/akashbarik_07 <br><br> LeetCode:(600+ questions solved) https://leetcode.com/u/Akash__07/ <br><br>📄(My CV): Know about my experiences https://drive.google.com/file/d/1ywYH6Cosmor3Ev6sNvZuoF3EWaZ_2jUT/view?usp=sharing<br><br>⚡ Fun fact I play Cricket 😀
+<br>🌱 I’m currently learning Mern stack<br><br>💬 Ask me about Data Structure & Algorithm<br><br>📫 How to reach me barikakash396@gmail.com<br><br>Coding Profile : <br><br> CodeChef(4⭐): https://www.codechef.com/users/akashbarik_07 <br><br> LeetCode(Knight):(600+ questions solved) https://leetcode.com/u/Akash__07/ <br><br>📄(My CV): Know about my experiences https://drive.google.com/file/d/1ywYH6Cosmor3Ev6sNvZuoF3EWaZ_2jUT/view?usp=sharing<br><br>⚡ Fun fact I play Cricket 😀
 
 
 
